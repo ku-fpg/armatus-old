@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">Android HERMIT</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Android HERMIT</string>
+    <string name="title_preference_screen">Android HERMIT preferences</string>
+    <string name="default_pref_message">Are you sure you want to restore the default settings?</string>
+    <string name="context_menu_title">Commands found in this line</string>
+    <string name="popup_text">Font size:</string>
+    <string name="copy">COPY</string>
+    <string name="select">SELECT</string>
+    <string name="terminal_not_installed_title">Error: ATE not installed</string>
+    <string name="terminal_not_installed_message">To use the terminal, you must install the Android Terminal Emulator app. Afterwards, you must reinstall Armatus. Would you like to install ATE from the Play store now?</string>
+	<string name="console_exit_title">Are you sure you want to exit?</string>
+	<string name="console_exit_message">All progress will be lost. Do you still want to exit the console?</string>
+	<string name="gesture_dialog_message">Move your finger to perform a gesture.</string>
+	<string name="swap">swap</string>
+    
+</resources>
